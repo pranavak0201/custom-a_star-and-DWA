@@ -1,0 +1,5 @@
+<library path="custom_a_star_planner">
+  <class type="custom_a_star_planner::CustomAStarPlanner" base_class_type="nav2_core::GlobalPlanner">
+    <description>Custom A* global planner with Manhattan distance heuristic and dynamic weighting</description>
+  </class>
+</library>

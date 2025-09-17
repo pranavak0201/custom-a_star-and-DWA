@@ -1,0 +1,5 @@
+<library path="custom_dwa_controller">
+  <class type="custom_dwa_controller::CustomDWAController" base_class_type="nav2_core::Controller">
+    <description>Custom DWA local controller with specified trajectory scoring weights</description>
+  </class>
+</library>
